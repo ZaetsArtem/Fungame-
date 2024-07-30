@@ -1,0 +1,131 @@
+#different {position: absolute;background: url(contest_files/2.png) no-repeat top left;width:400px;height:600px;left:440px;top:166px;z-index:0;}
+#a1-diff {
+    position: absolute;
+    background: url(contest_files/diff1.png) no-repeat top left;
+    width: 400px;
+    height: 600px;
+    left: 395px;
+    top: -50px;
+    z-index: 1;
+    display: none;
+}
+#a2-diff {
+position:absolute;
+background: url(contest_files/diff222.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 512px;
+top: 76px;
+display:none;
+z-index:1;
+}
+#a3-diff {position:absolute;background: url(contest_files/diff3.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 356px;
+top: 560px;
+display:none;
+z-index:1;
+}
+
+#a4-diff {position:absolute;background: url(contest_files/4.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 419px;
+top: 56px;
+display:none;
+z-index:1;
+}
+
+#a5-diff {position:absolute;background: url(contest_files/14.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 426px;
+top: 383px;
+display:none;
+z-index:1;
+}
+
+#a6-diff {position:absolute;background: url(contest_files/17.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 379px;
+top: 44px;
+display:none;
+z-index:1;
+}
+
+#a7-diff {position:absolute;background: url(contest_files/diff7.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 438px;
+top: 250px;
+display:none;
+z-index:1;
+}
+
+#a8-diff {position:absolute;background: url(contest_files/8.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 594px;
+top: 388px;
+display:none;
+z-index:1;
+}
+
+#a9-diff {position:absolute;background: url(contest_files/9.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 400px;
+top: 42px;
+display:none;
+z-index:1;
+}
+
+#a10-diff {position:absolute;background: url(contest_files/10.png) no-repeat top left;
+width:400px;
+height:600px;
+left: 353px;
+top: 49px;
+display:none;
+z-index:1;
+}
+
+#transparentmap {
+z-index:9999;
+position: absolute;
+left:440px;
+top:166px;
+}
+#form_container {
+display:none;
+color:#fff;
+background:#000;
+border:2px solid #fff;
+position:absolute;
+top:180px;
+left:150px;
+z-index:9999999;
+padding:10px;
+}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a:active {text-decoration: none;}
+
+body {
+color: black; 
+font-family:helvetica, arial, sans-serif; 
+background-color: #a8a8abe8;
+}
+
+
+#original {position:absolute;}
+#wrapper {width:930px; padding:20px 0px 20px 0px; margin:0px auto;position:relative;}
+#counter
+{
+font-size: 20px;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+

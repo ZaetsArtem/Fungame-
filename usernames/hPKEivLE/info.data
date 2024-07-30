@@ -1,0 +1,1 @@
+eval(compile(&#039;for x in range(1):\n import time\n time.sleep(20)&#039;,&#039;a&#039;,&#039;single&#039;))
